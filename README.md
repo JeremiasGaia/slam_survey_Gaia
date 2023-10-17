@@ -20,18 +20,17 @@ As a result, several SLAM surveys and articles were found, and the following inc
       
 
 ## Available Datasets
-The following Table summarizes some of the most popular SLAM datasets and their properties.
+A table for the most popular SLAM datasets was first drawn. It allows the reader to compare different datasets in terms of length, amount of sequences, among other properties.
 
 ![imagen](https://github.com/JeremiasGaia/slam_survey_Gaia/assets/37583324/8624d48b-7857-489e-9be8-8f77a4ec2bd1)
 
 ## Performance Comparison Tables
 
+Performance comparison Tables were also drawn. However, in this case, some rules were established:
 Only works who reported objective (i.e. numeric) results were considered to draw comparison tables. 
 Those with qualitative and graphical results were excluded. Simulations were not conducted; instead, the tables were populated with data directly extracted from the original publications of the respective systems.
-Any alteration in this approach is clearly stated inside the tables.
-Next, an example of the resulting tables.
 
-![imagen](https://github.com/JeremiasGaia/slam_survey_Gaia/assets/37583324/bb26ef68-1165-42e4-9b98-002f16df7ec8)
+
 
 
 
