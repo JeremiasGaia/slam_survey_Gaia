@@ -1,5 +1,5 @@
 # slam_survey_Gaia
-This repository contains a brief description about the procedure to reproduce the comparison tables presented in the survey article "Mapping the Landscape of SLAM Research: A Review." available at IEEE Latin America Transactions.
+This repository contains a brief description about the procedure to reproduce the comparison tables presented in the survey article **"Mapping the Landscape of SLAM Research: A Review."** available at IEEE Latin America Transactions.
 
 ![graph_abstract_survey_V2](https://github.com/JeremiasGaia/slam_survey_Gaia/assets/37583324/c41e37ef-edc4-483a-bd81-4c1fb136acb8)
 
